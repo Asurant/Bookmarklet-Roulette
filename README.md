@@ -17,4 +17,10 @@ This is a bookmarklet that randomly changes the attributes on a site. Here's a l
 13. Randomly changes the opacity of all text
 14. Makes the screen blurry
 
-<img width="1876" height="845" alt="image" src="https://github.com/user-attachments/assets/0c05d3c6-b2b4-4d72-8a42-3adc0dc225e1" />
+## How To Use
+First you need to create a new bookmark. You can have it named whatever you want. I have it named Roulette.
+<img width="548" height="647" alt="image" src="https://github.com/user-attachments/assets/027c78a9-c653-4f29-9cf6-f527c0a99c62" />  
+Next you're going to need to copy and paste all of the roulette.js code into the URL.
+<img width="548" height="660" alt="image" src="https://github.com/user-attachments/assets/1a2de4a1-c9d6-490b-9a17-92faf68458cc" />  
+Now whenever you want to use it, just click on your bookmark and it does it's magic.
+<img width="1876" height="845" alt="image" src="https://github.com/user-attachments/assets/0c05d3c6-b2b4-4d72-8a42-3adc0dc225e1" />  
